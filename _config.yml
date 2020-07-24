@@ -13,10 +13,10 @@
 title: Chek Yin Choi
 
 # Short description of your site
-description: Digitally 
+description: Professional Homepage
 
 # Your name to show in the footer
-author: Me, of course
+author: Chek Yin, Choi
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -26,7 +26,9 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - CV: "/assets/doc/CV.pdf"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Ongoing projects: 
+    - Research: "research"
+    - Hobby Projects: "hobby"
   Personal Home: "https://hkchekc.github.io/home"
 
 ################
@@ -136,8 +138,9 @@ navbar-var-length: false
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#2B3A44"
-navbar-text-col: "#E9E0D2"
-navbar-border-col: "#EAEAEA"
+navbar-text-col: "#FFFFFF"
+navbar-border-col: "#000000"
+navbar-link-col: "#FFFFFF"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"

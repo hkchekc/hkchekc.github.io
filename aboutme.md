@@ -7,7 +7,9 @@ subtitle: Why should you hire me?
 I am Chek. I have the following qualities:
 
 - I am a happy person.
-- I can cook well
+- I am very curious.
+- I love to work around people.
+- I can cook well.
 
 ### My story
 
