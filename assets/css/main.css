@@ -274,6 +274,7 @@ img {
   text-decoration: none !important;
   border-width: 0 1px 1px 1px;
   font-weight: normal;
+  color: {{ site.navbar-link-col | default: "#EAEAEA"}};
 }
 
 @media (min-width: 768px) {
