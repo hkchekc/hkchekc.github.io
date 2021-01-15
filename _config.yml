@@ -29,7 +29,7 @@ navbar-links:
   Ongoing projects: 
     - Research: "research"
     - Hobby Projects: "hobby"
-  Personal Home: "https://hkchekc.github.io/home"
+  Personal Home: "404"  # "https://hkchekc.github.io/home"
 
 ################
 # --- Logo --- #
