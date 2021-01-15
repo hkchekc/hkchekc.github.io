@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why should you hire me?
+subtitle: ------------------------------
 ---
 
 I am Chek. I have the following qualities:
