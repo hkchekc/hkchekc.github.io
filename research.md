@@ -5,7 +5,7 @@ subtitle: mostly, if not all, about economics
 ---
 
 ## Ongoing Projects
-
+---
 ### Loss From Trade: Trends of Price Dispersion in Intermediate Good Market and Misallocation
 
 Abstract: Substantial input price dispersion had been recently documented in several different contexts. I observe the same dispersion in Swedish import data, propose potential causes and document correlations between input price gap and economics outcome. I also find that the price dispersion has been increasing in recent years. One possible explanation for this is the decreasing trade cost. I build a quantitative model, featuring search-and-bargaining between buyers and supplier, to draw output implications of my empirical findings. In the baseline model, I find that the losses from misallocation increase with decreasing search cost. 
