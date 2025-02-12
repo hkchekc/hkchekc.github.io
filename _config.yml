@@ -23,13 +23,14 @@ author: Chek Yin, Choi
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - CV: "/assets/doc/CV.pdf"
-  Ongoing projects: 
-    - Research: "research"
-    - Hobby Projects: "hobby"
-  Personal Home: "404"  # "https://hkchekc.github.io/home"
+  # About Me: "aboutme"
+#  Resources:
+#    - CV: "/assets/doc/CV.pdf"
+  CV: "/assets/doc/CV.pdf"
+  Research: "research"
+    # - Research: "research"
+    # - Hobby Projects: "hobby"
+  # Personal Home: "404"  # "https://hkchekc.github.io/home"
 
 ################
 # --- Logo --- #
@@ -55,7 +56,7 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "hkchekc@gmail.com"
+  email: "chek-yin.choi@iies.su.se"
   # facebook: deanattali
   github: hkchekc
   #  twitter: daattali
