@@ -10,7 +10,7 @@ I am Chek. I am a 5th year PhD student at IIES, Stockholm University. I have the
 - I am very curious.
 - I love to work around people.
 
-### my history
+### My story
 
 For a concise review, why don't you read [mv CV](assets/doc/CV.pdf)? 
 
