@@ -4,12 +4,11 @@ title: About me
 subtitle: ------------------------------
 ---
 
-I am Chek. I have the following qualities:
+I am Chek. I am a 5th year PhD student at IIES, Stockholm University. I have the following qualities:
 
 - I am a happy person.
 - I am very curious.
 - I love to work around people.
-- I can cook well.
 
 ### My story
 
