@@ -6,12 +6,12 @@ subtitle: mostly, if not all, about economics
 
 ## Ongoing Projects
 ---
-### Loss From Trade: Trends of Price Dispersion in Intermediate Good Market and Misallocation  <!-- [Draft](assets/doc/CHOI_JMP_draft.pdf) -->
+### Supplier Search and Market Concentration  <!-- [Draft](assets/doc/CHOI_JMP_draft.pdf) -->
 
-Abstract: Substantial input price dispersion had been recently documented in several different contexts. I observe the same dispersion in Swedish import data, propose potential causes and document correlations between input price gap and economics outcome. I also find that the price dispersion has been increasing in recent years. One possible explanation for this is the decreasing trade cost. I build a quantitative model, featuring search-and-bargaining between buyers and supplier, to draw output implications of my empirical findings. In the baseline model, I find that the losses from misallocation increase with decreasing search cost. 
+Abstract: I analyze how falling search costs - driven by improvements in communications and transportation technology since the late 1990s - have affected firm size distribution and allocative efficiency. Lower costs have enabled smaller firms to source inputs internationally, reflected in the declining size of median and lower-percentile importers. Meanwhile, top importers have also grown, driving up market concentration. I suspect these trends originate from the structure of the intermediate goods market. In Swedish import data, I find that input prices exhibit rising variance and are negatively correlated with productivity. Based on my empirical findings, I develop a quantitative search-and-bargaining model in which search costs serve as both expansion cost and entry barrier. I find that decreasing search cost sometimes favor the most productive firms and sometimes smaller ones. Consequently, market concentration and efficiency respond non-monotonically to changes in search costs.
 
 ---
-### Local and Unified Market
+### When Unified Market meet Local Markets: How Big Firms Drive Local Price Dynamics?
 
 ---
 ### Inflation Persistence and a new Phillips Curve 
