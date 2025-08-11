@@ -1,7 +1,7 @@
 ---
 layout: home
-title: CHOI, Chek Yin
-subtitle: PhD Student at IIES, Stockholm University.
+title: Chek Yin Choi 
+subtitle: 蔡卓賢
 ---
 
 
