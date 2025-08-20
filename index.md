@@ -9,7 +9,7 @@ subtitle: 蔡卓賢
 <div style="display:flex; flex-wrap:wrap; align-items:center; gap:20px;">
 
   <!-- Photo on the left -->
-  <div style="flex:1; min-width:250px;">
+  <div style="flex:2; min-width:250px;">
     <img src="/assets/img/portrait_lowres.jpg" alt="My photo"
          style="max-width:100%; border-radius:12px;">
   </div>
