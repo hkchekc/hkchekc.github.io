@@ -9,16 +9,16 @@ subtitle:
 ### Supplier Search and Market Concentration [JMP] <!-- [Draft](assets/doc/CHOI_JMP_draft.pdf) -->
 
 <details>
-<summary><strong>Abstract (click to expand)</strong></summary>
+<summary><strong>Abstract </strong></summary>
 Abstract: This paper examines how lower search costs in input markets reshape the distribution of firm sizes. Using Swedish administrative data, I document four facts: (i) more productive firms pay lower input prices, (ii) the dispersion in imported varieties across firms is widening, (iii) the sales distribution among importers has become more unequal, and (iv) municipalities with greater fiber-optic coverage experience faster supplier network growth, especially among more productive firms. To interpret these patterns, I develop a quantitative model of monopolistic competition with frictional input markets, in which firms incur fixed costs to search and bargain with suppliers. The model shows that falling search costs reallocate resources toward importers, raising aggregate productivity but also increasing market concentration. A counterfactual exercise indicates that a 10 percent tariff on inputs would largely offset these gains.
 </details>
 
 ---
 ### Inflation Persistence and a new Phillips Curve 
-#### with Marcus Hagedorn, Juan Llavador & Kurt Mitman
+#### <span style="color: grey; font-weight: 300;"> with Marcus Hagedorn, Juan Llavador & Kurt Mitman</span>
 
 <details>
-<summary><strong>Abstract (click to expand)</strong></summary>
+<summary><strong>Abstract </strong></summary>
 Abstract: Auclert et al. (2024) recently argued that, to first order, menu-costs models deliver
 the same New Keynesian Phillips Curves as time-dependent models in response to AR(1)
 shocks. We show here that when considering a broader class of shocks, menu-costs models
@@ -42,4 +42,4 @@ of inflation in the Phillips curve in menu-cost models and inflation therefore i
 
 ---
 ### Are Robots Special?
-#### with Isabella Maassen
+#### <span style="color: grey; font-weight: 300;">with Isabella Maassen</span>
