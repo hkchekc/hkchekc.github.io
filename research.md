@@ -18,7 +18,7 @@ Abstract: This paper examines how lower search costs in input markets reshape th
 
 
 ### <span style="font-weight:600; color:#333;">Inflation Persistence and a New Phillips Curve</span>  
-#### <span style="color: grey; font-weight:300;">with Marcus Hagedorn, Juan Llavador & Kurt Mitman</span>
+#### <span style="color: grey; font-weight:300;">with Marcus Hagedorn, <a href="https://juanlla.github.io/" target="_blank" style="color: grey; text-decoration:none;">Juan Llavador</a> & <a href="http://www.kurtmitman.com/" target="_blank" style="color: grey; text-decoration:none;">Kurt Mitman</a></span>
 
 
 <details>
