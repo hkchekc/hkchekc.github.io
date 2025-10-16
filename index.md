@@ -14,12 +14,13 @@ subtitle: 蔡卓賢
 
   <!-- Text on the right -->
   <div style="flex:1; min-width:300px;">
-    <p>
+    <p style="font-size: 1.1rem;">
       Welcome to my site!<br>
       I am an Economics PhD Student at IIES, Stockholm University.<br>
       My research interests include macroeconomics, trade and IO.<br>
       I will be on the 25/26 Job Market.
     </p>
+
   </div>
 
 </div>
