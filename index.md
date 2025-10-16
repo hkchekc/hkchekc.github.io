@@ -13,7 +13,7 @@ subtitle: 蔡卓賢
   </div>
 
   <!-- Text on the right -->
-  <div style="flex:1; min-width:300px;">
+  <div style="flex:1; min-width:800px;">
     <p style="font-size: 1.1rem;">
       Welcome to my site!<br>
       I am an Economics PhD Student at IIES, Stockholm University.<br>
