@@ -7,11 +7,18 @@ subtitle:
 ## <span style="font-weight:700; color:#222; letter-spacing:1px; text-transform:uppercase;">Working Papers</span>
 ---
 
-### <span style="font-weight:600; color:#333;">Supplier Search and Market Concentration [JMP]</span> <!-- [Draft](assets/doc/CHOI_JMP_draft.pdf) -->
+### <span style="font-weight:600; color:#333;">Supplier Search and Market Concentration <a href="https://hkchekc.github.io/assets/doc/CHOI_JMP_draft.pdf" style="font-weight:400; font-size:0.9em;">[JMP Draft]</a></span>
+
 
 <details>
 <summary><strong>Abstract </strong></summary>
-Abstract: This paper examines how lower search costs in input markets reshape the distribution of firm sizes. Using Swedish administrative data, I document four facts: (i) more productive firms pay lower input prices, (ii) the dispersion in imported varieties across firms is widening, (iii) the sales distribution among importers has become more unequal, and (iv) municipalities with greater fiber-optic coverage experience faster supplier network growth, especially among more productive firms. To interpret these patterns, I develop a quantitative model of monopolistic competition with frictional input markets, in which firms incur fixed costs to search and bargain with suppliers. The model shows that falling search costs reallocate resources toward importers, raising aggregate productivity but also increasing market concentration. A counterfactual exercise indicates that a 10 percent tariff on inputs would largely offset these gains.
+Abstract: This paper studies how changes in input market frictions reshape firm size distribution and aggregate productivity.  
+I develop a quantitative model of supplier search in which firms incur fixed costs to find and bargain with input suppliers.  
+The framework provides a microfoundation for how input trade affect firm performance and resource allocation.  
+Empirical evidence from firm-level import data motivates the model through four key patterns: (i) the dispersion in the number of imported varieties across firms has widened, (ii) the sales distribution among importers has become more unequal, (iii) larger firms pay lower input prices, and (iv) firms in municipalities with better digital infrastructure expand their supplier networks faster, especially for larger firms.  
+In general equilibrium, reductions in input search frictions reallocate resources toward more productive importers, raising real GDP by 9 percent but also increasing market concentration by 6.6 percent.  
+A counterfactual analysis shows that a 10 percent tariff on imported inputs would largely offset these gains while reducing market concentration.
+
 </details>
 
 ### &nbsp;
