@@ -56,7 +56,7 @@ of inflation in the Phillips curve in menu-cost models and inflation therefore i
 ### <span style="font-weight:600; color:#333;">Are Robots Special?</span>  
 #### <span style="color: grey; font-weight:300;">with Isabella Maassen</span>
 
-### &nbsp;
-
-### <span style="font-weight:600; color:#333;">The Scope of Innovative Firms and Multi-Skilled Workers: Evidence from Software Development</span>  
-#### <span style="color: grey; font-weight:300;">with <a href="https://jinciliu.github.io/" target="_blank" style="color: grey; text-decoration:none;">Jinci Liu</a></span>
+<!--### &nbsp;-->
+<!---->
+<!--### <span style="font-weight:600; color:#333;">The Scope of Innovative Firms and Multi-Skilled Workers: Evidence from Software Development</span>  -->
+<!--#### <span style="color: grey; font-weight:300;">with <a href="https://jinciliu.github.io/" target="_blank" style="color: grey; text-decoration:none;">Jinci Liu</a></span>-->
