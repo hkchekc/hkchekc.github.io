@@ -28,6 +28,7 @@ navbar-links:
 #    - CV: "/assets/doc/CV.pdf"
   CV: "/assets/doc/CV.pdf"
   Research: "research"
+  Teaching: "teaching"
     # - Research: "research"
     # - Hobby Projects: "hobby"
   # Personal Home: "404"  # "https://hkchekc.github.io/home"
