@@ -24,7 +24,8 @@ A counterfactual analysis shows that a 10 percent tariff on imported inputs woul
 ### &nbsp;
 
 
-### <span style="font-weight:600; color:#333;">Inflation Persistence and a New Phillips Curve</span>  
+### <span style="font-weight:600; color:#333;">Inflation Persistence and a New Phillips Curve</span>
+<p style="margin:4px 0 0; font-weight:400; font-size:0.9em; color:#777;">[Draft available upon request]</p>
 #### <span style="color: grey; font-weight:300;">with Marcus Hagedorn, <a href="https://juanlla.github.io/" target="_blank" style="color: grey; text-decoration:none;">Juan Llavador</a> & <a href="http://www.kurtmitman.com/" target="_blank" style="color: grey; text-decoration:none;">Kurt Mitman</a></span>
 
 
@@ -43,6 +44,32 @@ drops significantly. The reason is that nominal demand growth is a second determ
 of inflation in the Phillips curve in menu-cost models and inflation therefore inherits the persistence of the process for nominal demand.
 </details>
 
+### &nbsp;
+
+### <span style="font-weight:600; color:#333;">Are Robots Special?</span>
+<p style="margin:4px 0 0; font-weight:400; font-size:0.9em; color:#777;">[Draft available upon request]</p>
+#### <span style="color: grey; font-weight:300;">with Isabella Maassen</span>
+
+<details>
+<summary><strong>Abstract </strong></summary>
+Abstract: Mainstream analyses of automation often treat capital as a homogeneous input
+and focus narrowly on industrial robots. We use matched Swedish administrative
+microdata linking firms, workers, and imports to study how heterogeneous forms
+of capital interact with labor and firm performance. First, we replicate the main
+findings of Acemoglu et al. (2020) for Sweden and confirm that robot adoption
+has similar effects on firms’ value added, employment, and workforce composition.
+Second, we extend the empirical setting to capture heterogeneous effects by firm
+size and the value of robot adoption. Third, we apply the same framework to a
+broad range of disaggregated capital goods identified at the 8-digit product level.
+We find that several non-robot capital types have effects on labor and productivity
+comparable to those of robots, while aggregated capital measures tend to yield
+weak results. Finally, we classify capital goods by how they interact with
+different categories of labor, such as by education, gender, and age. Our findings
+suggest that although robots have large and visible impacts on labor markets, they
+are not unique in their economic function, and their interaction patterns with labor
+resemble those of older and more conventional capital-embodied technologies.
+</details>
+
 # &nbsp;
 
 
@@ -50,11 +77,6 @@ of inflation in the Phillips curve in menu-cost models and inflation therefore i
 ---
 
 ### <span style="font-weight:600; color:#333;">When Unified Market Meets Local Markets: How Big Firms Drive Local Price Dynamics?</span>
-
-### &nbsp;
-
-### <span style="font-weight:600; color:#333;">Are Robots Special?</span>  
-#### <span style="color: grey; font-weight:300;">with Isabella Maassen</span>
 
 <!--### &nbsp;-->
 <!---->
