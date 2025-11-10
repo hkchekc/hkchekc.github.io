@@ -46,8 +46,7 @@ of inflation in the Phillips curve in menu-cost models and inflation therefore i
 
 ### &nbsp;
 
-### <span style="font-weight:600; color:#333;">Are Robots Special?</span>
-<p style="margin:4px 0 0; font-weight:400; font-size:0.9em; color:#777;">[Draft available upon request]</p>
+### <span style="font-weight:600; color:#333;">Are Robots Special <a href="https://hkchekc.github.io/assets/doc/Are_Robots_Special_draft.pdf" style="font-weight:400; font-size:0.9em;">[Draft]</a></span>
 #### <span style="color: grey; font-weight:300;">with Isabella Maassen</span>
 
 <details>
