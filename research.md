@@ -23,29 +23,6 @@ A counterfactual analysis shows that a 10 percent tariff on imported inputs woul
 
 ### &nbsp;
 
-
-### <span style="font-weight:600; color:#333;">Inflation Persistence and a New Phillips Curve</span>
-<p style="margin:4px 0 0; font-weight:400; font-size:0.9em; color:#777;">[Draft available upon request]</p>
-#### <span style="color: grey; font-weight:300;">with Marcus Hagedorn, <a href="https://juanlla.github.io/" target="_blank" style="color: grey; text-decoration:none;">Juan Llavador</a> & <a href="http://www.kurtmitman.com/" target="_blank" style="color: grey; text-decoration:none;">Kurt Mitman</a></span>
-
-
-<details>
-<summary><strong>Abstract </strong></summary>
-Abstract: Auclert et al. (2024) recently argued that, to first order, menu-costs models deliver
-the same New Keynesian Phillips Curves as time-dependent models in response to AR(1)
-shocks. We show here that when considering a broader class of shocks, menu-costs models
-can generate qualitatively and quantitatively different Phillips curves than implied by
-time-dependent models. Shocks to the growth rate of nominal demand generate inflation
-persistence in the model, in line with the data, but at odd with the standard time-
-dependent NKPC. Changes in the extensive margin of price adjustment in the menu-cost
-model generate history dependence that is captured by the lagged inflation rate. Once
-we control for lagged nominal demand growth, the explanatory power of lagged inflation
-drops significantly. The reason is that nominal demand growth is a second determinant
-of inflation in the Phillips curve in menu-cost models and inflation therefore inherits the persistence of the process for nominal demand.
-</details>
-
-### &nbsp;
-
 ### <span style="font-weight:600; color:#333;">Are Robots Special? <a href="https://hkchekc.github.io/assets/doc/Are_Robots_Special_draft.pdf" style="font-weight:400; font-size:0.9em;">[Draft]</a></span>
 #### <span style="color: grey; font-weight:300;">with Isabella Maassen</span>
 
@@ -67,6 +44,28 @@ different categories of labor, such as by education, gender, and age. Our findin
 suggest that although robots have large and visible impacts on labor markets, they
 are not unique in their economic function, and their interaction patterns with labor
 resemble those of older and more conventional capital-embodied technologies.
+</details>
+
+### &nbsp;
+
+### <span style="font-weight:600; color:#333;">Inflation Persistence and a New Phillips Curve</span>
+<p style="margin:4px 0 0; font-weight:400; font-size:0.9em; color:#777;">[Draft available upon request]</p>
+#### <span style="color: grey; font-weight:300;">with Marcus Hagedorn, <a href="https://juanlla.github.io/" target="_blank" style="color: grey; text-decoration:none;">Juan Llavador</a> & <a href="http://www.kurtmitman.com/" target="_blank" style="color: grey; text-decoration:none;">Kurt Mitman</a></span>
+
+
+<details>
+<summary><strong>Abstract </strong></summary>
+Abstract: Auclert et al. (2024) recently argued that, to first order, menu-costs models deliver
+the same New Keynesian Phillips Curves as time-dependent models in response to AR(1)
+shocks. We show here that when considering a broader class of shocks, menu-costs models
+can generate qualitatively and quantitatively different Phillips curves than implied by
+time-dependent models. Shocks to the growth rate of nominal demand generate inflation
+persistence in the model, in line with the data, but at odd with the standard time-
+dependent NKPC. Changes in the extensive margin of price adjustment in the menu-cost
+model generate history dependence that is captured by the lagged inflation rate. Once
+we control for lagged nominal demand growth, the explanatory power of lagged inflation
+drops significantly. The reason is that nominal demand growth is a second determinant
+of inflation in the Phillips curve in menu-cost models and inflation therefore inherits the persistence of the process for nominal demand.
 </details>
 
 # &nbsp;
