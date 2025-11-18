@@ -12,12 +12,7 @@ subtitle:
 
 <details>
 <summary><strong>Abstract </strong></summary>
-Abstract: This paper studies how changes in input market frictions reshape firm size distribution and aggregate productivity.  
-I develop a quantitative model of supplier search in which firms incur fixed costs to find and bargain with input suppliers.  
-The framework provides a microfoundation for how input trade affect firm performance and resource allocation.  
-Empirical evidence from firm-level import data motivates the model through four key patterns: (i) the dispersion in the number of imported varieties across firms has widened, (ii) the sales distribution among importers has become more unequal, (iii) larger firms pay lower input prices, and (iv) firms in municipalities with better digital infrastructure expand their supplier networks faster, especially for larger firms.  
-In general equilibrium, reductions in input search frictions reallocate resources toward more productive importers, raising real GDP by 9 percent but also increasing market concentration by 6.6 percent.  
-A counterfactual analysis shows that a 10 percent tariff on imported inputs would largely offset these gains while reducing market concentration.
+Abstract: This paper studies how easier access to foreign suppliers of intermediate inputs reshapes the firm size distribution. I develop a quantitative model of supplier search in which firms incur fixed costs to discover and bargain with input suppliers. The model provides a microfoundation for how input trade influences aggregate productivity and resource allocation. Evidence from firm-level import data motivates the framework through four patterns: growing dispersion in imported varieties, rising inequality in importer sales, lower input prices for larger firms, and stronger supplier-network expansion in municipalities with better digital infrastructure. In general equilibrium, lower input search frictions reallocate resources toward more productive firms, raising real GDP by about 13 percent and increasing market concentration by 12.7 percent. A 10 percent tariff on imported inputs offsets the GDP gain and lowers concentration.
 
 </details>
 
@@ -28,22 +23,7 @@ A counterfactual analysis shows that a 10 percent tariff on imported inputs woul
 
 <details>
 <summary><strong>Abstract </strong></summary>
-Abstract: Mainstream analyses of automation often treat capital as a homogeneous input
-and focus narrowly on industrial robots. We use matched Swedish administrative
-microdata linking firms, workers, and imports to study how heterogeneous forms
-of capital interact with labor and firm performance. First, we replicate the main
-findings of Acemoglu et al. (2020) for Sweden and confirm that robot adoption
-has similar effects on firms’ value added, employment, and workforce composition.
-Second, we extend the empirical setting to capture heterogeneous effects by firm
-size and the value of robot adoption. Third, we apply the same framework to a
-broad range of disaggregated capital goods identified at the 8-digit product level.
-We find that several non-robot capital types have effects on labor and productivity
-comparable to those of robots, while aggregated capital measures tend to yield
-weak results. Finally, we classify capital goods by how they interact with
-different categories of labor, such as by education, gender, and age. Our findings
-suggest that although robots have large and visible impacts on labor markets, they
-are not unique in their economic function, and their interaction patterns with labor
-resemble those of older and more conventional capital-embodied technologies.
+Abstract: Mainstream analyses of automation often treat capital as a homogeneous input or focus narrowly on specific capital classes, such as industrial robots. We use matched Swedish administrative microdata linking firms, workers, and imports to study how heterogeneous forms of capital interact with labor and firm performance. First, we replicate the main findings of Acemoglu et al. (2020) for Sweden and confirm that robot adoption has similar effects on firms’ value added, employment, and workforce composition as in France. Second, we extend the empirical setting to capture heterogeneous effects by firm size and the value of robot adoption. Third, we apply the same framework to a broad range of disaggregated capital goods identified at the 8-digit product level. We find that several non-robot capital types have effects on labor and productivity comparable to those of robots, while aggregated capital measures tend to yield weak results. Our findings suggest that although robots have large and visible impacts on labor markets, they are not unique in their economic function, and their interaction patterns with labor resemble those of older and more conventional capital-embodied technologies.
 </details>
 
 ### &nbsp;
@@ -54,17 +34,7 @@ resemble those of older and more conventional capital-embodied technologies.
 
 <details>
 <summary><strong>Abstract </strong></summary>
-Abstract: Auclert et al. (2024) recently argued that, to first order, menu-costs models deliver
-the same New Keynesian Phillips Curves as time-dependent models in response to AR(1)
-shocks. We show here that when considering a broader class of shocks, menu-costs models
-can generate qualitatively and quantitatively different Phillips curves than implied by
-time-dependent models. Shocks to the growth rate of nominal demand generate inflation
-persistence in the model, in line with the data, but at odd with the standard time-
-dependent NKPC. Changes in the extensive margin of price adjustment in the menu-cost
-model generate history dependence that is captured by the lagged inflation rate. Once
-we control for lagged nominal demand growth, the explanatory power of lagged inflation
-drops significantly. The reason is that nominal demand growth is a second determinant
-of inflation in the Phillips curve in menu-cost models and inflation therefore inherits the persistence of the process for nominal demand.
+Abstract: Inflation exhibits substantial persistence in the data, yet the standard New Keynesian Phillips Curve (NKPC) fails to generate this persistence without resorting to ad-hoc assumptions like inflation indexation. This paper demonstrates that menu-cost models with state-dependent pricing naturally produce inflation persistence consistent with empirical evidence. The key insight is that menu-cost models feature both intensive and extensive margins of price adjustment. In response to shocks to the growth rate of nominal demand, the intensive margin generates the standard marginal cost channel as in the NKPC, whereas the extensive margin generates history dependence that is captured by the lagged inflation rate. Using a calibrated menu-cost model with idiosyncratic productivity and stochastic adjustment costs, we show that when nominal demand growth is autocorrelated (as in the data), firms optimally delay price adjustments, generating history-dependent inflation dynamics. In Phillips Curve regressions, lagged inflation exhibits a coefficient of 0.50 when controlling for expected marginal costs alone—consistent with empirical estimates. However, this coefficient drops to 0.05 when we include lagged nominal demand growth, revealing that the persistence primarily stems from the extensive margin channel. Our findings suggest that inflation persistence emerges endogenously from firms' optimal price-setting behavior under menu costs, without invoking the Lucas critique concerns associated with mechanical indexation assumptions.
 </details>
 
 # &nbsp;
