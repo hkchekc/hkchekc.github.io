@@ -19,7 +19,8 @@ Abstract: This paper studies how easier access to foreign suppliers of intermedi
 ### &nbsp;
 
 ### <span style="font-weight:600; color:#333;">Are Robots Special? <a href="https://hkchekc.github.io/assets/doc/Are_Robots_Special_draft.pdf" style="font-weight:400; font-size:0.9em;">[Draft]</a></span>
-#### <span style="color: grey; font-weight:300;">with Isabella Maassen</span>
+<!--#### <span style="color: grey; font-weight:300;">with Isabella Maassen</span>-->
+#### <span style="color: grey; font-weight:300;">with <a href="https://www.su.se/english/profiles/isma2588-1.565573" target="_blank" style="color: grey; text-decoration:none;">Isabella Maassen</a></span>
 
 <details>
 <summary><strong>Abstract </strong></summary>
